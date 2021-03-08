@@ -1,7 +1,7 @@
 package solutions;
 
 
-public class Problemo4 {
+public class Problem4 {
 	int[] arr = new int[5];
 	
 }
